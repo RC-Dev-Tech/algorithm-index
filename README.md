@@ -14,7 +14,7 @@
 ## 排序演算法
 * [氣泡排序（Bubble Sort）](https://github.com/RC-Dev-Tech/algorithm-bubble-sort) <br>
 * [插入排序（Insertion Sort）](https://github.com/RC-Dev-Tech/algorithm-insertion-sort) <br>
-* 選擇排序（Selection Sort）
+* [選擇排序（Selection Sort）](https://github.com/RC-Dev-Tech/algorithm-selection-sort) <br>
 * 快速排序（Quick Sort）
 * 合併排序（Merge Sort）
 * 堆積排序（Heap Sort）
