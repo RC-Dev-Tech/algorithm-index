@@ -19,10 +19,10 @@
   * [基本快速排序（Basic Quick Sort）](https://github.com/RC-Dev-Tech/algorithm-basic-quick-sort) <br>
     * [洛穆托分區方案（Lomuto partition scheme）](https://github.com/RC-Dev-Tech/algorithm-quick-sort-lomuto) <br>
     * [霍爾分區方案（Hoare partition scheme）](https://github.com/RC-Dev-Tech/algorithm-quick-sort-hoare) <br>
-  * 內省式快速排序（Introsort）
-  * 三路快速排序（Three-Way Quick Sort）
-  * 隨機化快速排序（Randomized Quick Sort）
-  * 雙輪排序（Dual-Pivot Quick Sort）
+  * [內省式快速排序（Introsort）](https://github.com/RC-Dev-Tech/algorithm-quick-sort-introsort) <br>
+  * [三路快速排序（Three-Way Quick Sort）](https://github.com/RC-Dev-Tech/algorithm-quick-sort-three-way) <br>
+  * [隨機化快速排序（Randomized Quick Sort）](https://github.com/RC-Dev-Tech/algorithm-quick-sort-randomized) <br>
+  * [雙輪排序（Dual-Pivot Quick Sort）](https://github.com/RC-Dev-Tech/algorithm-quick-sort-dual-pivot) <br>
 * 合併排序（Merge Sort）
 * 堆積排序（Heap Sort）
 
