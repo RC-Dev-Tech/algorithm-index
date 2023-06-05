@@ -23,7 +23,7 @@
   * [三路快速排序（Three-Way Quick Sort）](https://github.com/RC-Dev-Tech/algorithm-quick-sort-three-way) <br>
   * [隨機化快速排序（Randomized Quick Sort）](https://github.com/RC-Dev-Tech/algorithm-quick-sort-randomized) <br>
   * [雙輪排序（Dual-Pivot Quick Sort）](https://github.com/RC-Dev-Tech/algorithm-quick-sort-dual-pivot) <br>
-* 合併排序（Merge Sort）
+* [合併排序（Merge Sort）](https://github.com/RC-Dev-Tech/algorithm-merge-sort) <br>
 * 堆積排序（Heap Sort）
 
 ## 搜尋演算法
