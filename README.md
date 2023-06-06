@@ -24,7 +24,7 @@
   * [隨機化快速排序（Randomized Quick Sort）](https://github.com/RC-Dev-Tech/algorithm-quick-sort-randomized) <br>
   * [雙輪排序（Dual-Pivot Quick Sort）](https://github.com/RC-Dev-Tech/algorithm-quick-sort-dual-pivot) <br>
 * [合併排序（Merge Sort）](https://github.com/RC-Dev-Tech/algorithm-merge-sort) <br>
-* 堆積排序（Heap Sort）
+* [堆積排序（Heap Sort）](https://github.com/RC-Dev-Tech/algorithm-heap-sort) <br>
 
 ## 搜尋演算法
 * 線性搜尋（Linear Search）
