@@ -28,7 +28,7 @@
 
 ## 搜尋演算法
 * 線性搜尋（Linear Search）
-* 二元搜尋（Binary Search）
+* [二元搜尋（Binary Search）](https://github.com/RC-Dev-Tech/algorithm-binary-search) <br>
 
 ---
 
